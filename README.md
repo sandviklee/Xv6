@@ -2,7 +2,7 @@
 ### Course written kernel for the Operating system course TDT4186.
 
 
-<img src="https://i.gyazo.com/0c4496978ac27fa395e548c80ae9d6f4.png"  width="60%" height="30%">
+<img src="https://i.gyazo.com/0c4496978ac27fa395e548c80ae9d6f4.png"  width="40%" height="10%">
 
 *Used for the excersises and labs.*
 
