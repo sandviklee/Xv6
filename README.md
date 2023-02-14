@@ -1,7 +1,8 @@
 # Xv6
 ### Course written kernel for the Operating system course TDT4186.
 
-![](https://i.gyazo.com/0c4496978ac27fa395e548c80ae9d6f4.png)
+
+<img src="https://i.gyazo.com/0c4496978ac27fa395e548c80ae9d6f4.png"  width="60%" height="30%">
 
 *Used for the excersises and labs.*
 
